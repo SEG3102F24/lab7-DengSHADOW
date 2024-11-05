@@ -7,3 +7,8 @@ Access Angular Client Application - in branch *client*
 
 ## Tengyang Deng
 ## 300156567
+
+# Important
+1. Run server/client in seperate terminals
+2. type 5 in id input for author tap(5 is only one I create with books)
+   
