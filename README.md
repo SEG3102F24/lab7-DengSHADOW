@@ -10,5 +10,5 @@ Access Angular Client Application - in branch *client*
 
 # Important
 1. Run server/client in seperate terminals
-2. type 5 in id input for author tap(5 is only one I create with books)
+2. type 5 in id input for author tap(Id: 5 is the only one author I create with books)
    
